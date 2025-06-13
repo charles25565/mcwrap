@@ -5,6 +5,8 @@
 
 mcwrap is a toy Minecraft launcher in Python.
 
+It can successfully launch 1.19 and newer.
+
 ## Usage
 
 ```sh
