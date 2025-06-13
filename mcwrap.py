@@ -6,7 +6,6 @@ import requests
 import sys
 import json
 import os
-import glob
 
 os.makedirs("mc" + sys.argv[2].split("/")[-1].split(".json")[0], exist_ok=True)
 os.chdir("mc" + sys.argv[2].split("/")[-1].split(".json")[0])
